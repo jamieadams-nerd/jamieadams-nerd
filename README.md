@@ -14,10 +14,8 @@ For nearly two decades I contributed to accredited CDS and MLS products, includi
 ## Work Philosophy
 I value clarity, correctness, simplicity, and security. Code should be readable, predictable, and maintainable under pressure. System administrators should never have to guess what a tool is doing. Effective secure engineering is a mix of discipline, respect for constraints, and clean design.
 
-Gandalf the Green / High Herbalist
-Outside of formal engineering, I maintain a wizard-themed identity called “Gandalf the Green,” inspired by my High Herbalist persona, Thistledown Greenleaf. For me, good engineering feels like careful spellcraft — understanding deep rules, writing precise incantations (code), and making complexity understandable through discipline and craft.
 
-Repositories You’ll Find Here
+### Repositories You’ll Find Here
 	•	Rust command-line tools (classical ciphers, secure coding demonstrations)
 	•	Python GTK3 utilities for secure administration and cryptographic verification
 	•	Secure logging and auditing subsystem demonstrations
@@ -25,11 +23,11 @@ Repositories You’ll Find Here
 	•	Documentation templates and technical essays
 	•	Wizard-themed branding artifacts for fun and teaching
 
-Disclaimers
+## Disclaimers
 All public repositories are for educational, illustrative, and experimental purposes only.
 They are not turnkey solutions for accredited MLS/CDS systems.
 Cryptographic examples may not be FIPS validated.
 Always conduct independent security review and accreditation processes before using any code operationally.
 
-Future Links
+## Future Links
 This profile will eventually link to my website, GitHub pages, and YouTube content.
