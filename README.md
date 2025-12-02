@@ -29,6 +29,9 @@ They are not turnkey solutions for accredited MLS/CDS systems.
 Cryptographic examples may not be FIPS validated.
 Always conduct independent security review and accreditation processes before using any code operationally.
 
+All information on this site is based solely on publicly available cybersecurity standards, guidelines, and open-source documentation, and links to these public documents will be provided. No sensitive, classified, or system-specific configurations are used. All examples are generic demonstrations created for instructional purposes. Drawing on more than 30 years of professional experience in secure systems, I offer additional recommendations and best practices that align with these public standards while remaining entirely independent of any real-world system configuration.
+
+
 ### AI Image Disclaimer
 Some images on this site were generated using artificial intelligence tools. These images are original creations produced by AI based on my prompts and are not copied from or derived from any copyrighted artwork, photographs, or proprietary material. To the best of my knowledge, all AI-generated images shown here comply with U.S. copyright law, and I hold the rights to use, display, and publish them. Any resemblance to existing copyrighted works or real individuals is unintentional.
 
