@@ -323,3 +323,221 @@ All links go to official **UK government** domains.
 ### **UK Government Security**
 
 
+# Key Canadian Cybersecurity Standards & Publications (CCCS / CSE / TBS)
+
+This document lists the main cybersecurity frameworks, policies, and technical
+guidance issued by the **Canadian Centre for Cyber Security (CCCS)**,
+**Communications Security Establishment (CSE)**, and **Treasury Board Secretariat (TBS)**.
+
+---
+
+## 🇨🇦 Main Resource Libraries
+
+### **Canadian Centre for Cyber Security (CCCS) – Publications**
+- https://www.cyber.gc.ca/en/guidance
+
+### **Government of Canada Security Policy Suite**
+- https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-policy.html
+
+---
+
+## 🧩 Governance, Policy & Assurance
+
+### **Policy on Government Security (PGS)**
+- https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578
+
+### **Directive on Security Management**
+- https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27965
+
+### **Government of Canada IT Security Risk Management (ITSG-33)**
+*Canada’s closest equivalent to NIST RMF (800-37 + 800-53).*
+- https://www.cyber.gc.ca/en/guidance/it-security-risk-management-itsg-33
+
+### **Security Assessment & Authorization (SA&A) Guidance**
+- https://www.cyber.gc.ca/en/guidance/itsg-33-ita
+
+---
+
+## 🔒 Cryptography (CSE / CCCS)
+
+### **CSE Top 10 Security & Crypto Publications**
+- https://www.cyber.gc.ca/en/guidance/top-10-cse-it-security-publications
+
+### **ITSP.40 – Government of Canada Cryptographic Algorithms**
+- https://www.cyber.gc.ca/en/guidance/itsp40-government-canada-cryptographic-algorithms-while-government-canada-systems
+
+### **ITSP.30 – Secure Cryptographic Design**
+- https://www.cyber.gc.ca/en/guidance/itsp30-secure-design-and-implementation-cryptographic-solutions
+
+### **Quantum-Safe Cryptography (Canada PQC Roadmap)**
+- https://www.cyber.gc.ca/en/guidance/quantum-safe-guidance
+
+---
+
+## 🔄 Incident Response & Cyber Resilience
+
+### **Canadian Cyber Incident Response Centre (CCIRC) Guidance**
+- https://www.cyber.gc.ca/en/cyber-incident-management
+
+### **CCCS Assessment & Vulnerability Guidance**
+- https://www.cyber.gc.ca/en/guidance/assessments-and-vulnerability-management
+
+---
+
+## ☁️ Cloud Security (GC Cloud)
+
+### **GC Cloud Security Controls**
+- https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-security-controls.html
+
+### **Canadian Protected B Cloud Guidance**
+- https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-security-risk-management.html
+
+---
+
+## 🧬 Supply Chain & Critical Infrastructure
+
+### **National Strategy for Critical Infrastructure**
+- https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx
+
+### **CCCS Supply Chain Cybersecurity Guidance**
+- https://www.cyber.gc.ca/en/collection/supply-chain-security
+
+---
+
+## 👤 Identity, Authentication & Privacy
+
+### **Pan-Canadian Trust Framework (PCTF)**  
+(Digital identity interoperability standard)
+- https://diacc.ca/trust-framework/
+
+### **TBS Privacy & Identity Policy Instruments**
+- https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32654
+
+---
+
+## 🔧 Secure Development & Architecture
+
+### **CCCS Secure Software Guidance**
+- https://www.cyber.gc.ca/en/guidance/software-and-endpoint-security
+
+### **CCCS Architecture / Design Hardening**
+- https://www.cyber.gc.ca/en/guidance/network-security
+
+---
+
+## 📌 Notes
+Canada’s main security framework is **ITSG-33**, and CCCS materials align closely to NIST SPs and NSA/CSE cooperative standards under the Five Eyes partnership.
+
+
+# Key Australian Cybersecurity Standards & Publications (ACSC / ASD / PSPF / ISM)
+
+This document lists the major cybersecurity frameworks and publications from the  
+**Australian Cyber Security Centre (ACSC)** and **Australian Signals Directorate (ASD)**,  
+including the **ISM**, **Essential Eight**, cloud guidance, and critical infrastructure rules.
+
+---
+
+## 🇦🇺 Main Resource Libraries
+
+### **ACSC – Cyber Security Guidance Library**
+- https://www.cyber.gov.au/resources-business-and-government
+
+### **Australian Signals Directorate (ASD)**
+- https://www.asd.gov.au/
+
+### **Australian Government Information Security Manual (ISM)**
+- https://www.cyber.gov.au/resources-business-and-government/government-security/ism
+
+---
+
+## 🧩 Governance, Assurance & Risk
+
+### **Information Security Manual (ISM)**
+Australia’s equivalent to NIST 800-53 + 800-37 + CNSSI 1253.
+- https://www.cyber.gov.au/resources-business-and-government/government-security/ism
+
+### **Protective Security Policy Framework (PSPF)**
+- https://www.protectivesecurity.gov.au/
+
+### **Essential Eight Maturity Model**
+- https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight
+
+### **Risk Management Guidance**
+- https://www.cyber.gov.au/resources-business-and-government/risk-management
+
+---
+
+## 🔒 Cryptography (ASD)
+
+### **Australian Government Cryptographic Policy**
+- https://www.cyber.gov.au/resources-business-and-government/government-security/cryptographic-policy
+
+### **Evaluated Product List (EPL) – ASD Approved Crypto & Security Products**
+- https://www.asd.gov.au/acsccertifiedproducts
+
+### **Australian PQC Guidance (Quantum-Safe Readiness)**
+- https://www.cyber.gov.au/acsc/view-all-content/publications/preparing-quantum-safe-cryptography
+
+---
+
+## ☁️ Cloud Security
+
+### **ACSC Cloud Security Guidance**
+- https://www.cyber.gov.au/resources-business-and-government/government-security/cloud-security-guidance
+
+### **Cloud Security Controls & Assessments**
+- https://www.cyber.gov.au/resources-business-and-government/government-security/cloud
+
+---
+
+## 🔄 Incident Response & Threat Intelligence
+
+### **ACSC Incident Response**
+- https://www.cyber.gov.au/report-and-manage
+
+### **ACSC Partner Programme / Threat Sharing**
+- https://www.cyber.gov.au/acsc-partners
+
+---
+
+## 🧬 Critical Infrastructure Protection (SoCI Act)
+
+### **Security of Critical Infrastructure (SoCI) Framework**
+- https://www.cisc.gov.au/
+
+### **Critical Infrastructure Cyber Uplift Guidance**
+- https://www.cisc.gov.au/guidance
+
+---
+
+## 🛡️ Supply Chain Security
+
+### **ACSC Supply Chain Risk Management Guidance**
+- https://www.cyber.gov.au/resources-business-and-government/government-security/supply-chain-security
+
+---
+
+## 👤 Identity, Authentication & Governance
+
+### **Digital Identity – Australian Government Trust Framework (AGTF)**
+- https://www.digitalidentity.gov.au/
+
+### **ACSC Identity & Access Management Guidance**
+- https://www.cyber.gov.au/resources-business-and-government/authentication
+
+---
+
+## 🔧 Secure Development & Architecture
+
+### **ACSC Secure Coding & Development**
+- https://www.cyber.gov.au/resources-business-and-government/developers
+
+### **ACSC Architecture / Patterns / Hardening Guidance**
+- https://www.cyber.gov.au/resources-business-and-government/system-hardening
+
+---
+
+## 📌 Notes
+Australia’s **ISM** + **PSPF** + **Essential Eight** serve as the core of its cybersecurity framework, and map closely to U.S. NIST controls, U.K. NCSC guidance, and Canada’s ITSG-33 as part of broader Five Eyes collaboration.
+
+
