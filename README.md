@@ -217,5 +217,109 @@ NIST’s officially selected PQC algorithms (2022–2024) standardized as FIPS:
 ## 📌 Notes
 This list focuses on the *most critical* and most widely referenced NIST publications used in cybersecurity engineering, cloud security, cryptography (including PQC), supply-chain risk management, and system accreditation.
 
+# Key UK Cybersecurity Standards & Publications (NCSC, Cabinet Office, Cyber Essentials)
+
+This document lists the most widely used and foundational **United Kingdom
+government cybersecurity publications**, including guidance from the  
+**National Cyber Security Centre (NCSC)**, **Cabinet Office**, **CESG**,  
+**Cyber Essentials**, cryptographic standards, cloud security guidance,  
+and assurance frameworks.
+
+All links go to official **UK government** domains.
+
+---
+
+## 🇬🇧 Main Resource Libraries
+
+### **NCSC Guidance Library**
+- https://www.ncsc.gov.uk/collection/all-topics
+
+### **UK Government Cyber Security Guidance (GOV.UK)**
+- https://www.gov.uk/topic/technology/cyber-security
+
+---
+
+## 🧩 Governance, Assurance & National Frameworks
+
+### **Cyber Assessment Framework (CAF)**
+- https://www.ncsc.gov.uk/collection/caf
+
+### **Government Functional Standard for Security (GovS 007)**
+- https://www.gov.uk/government/publications/government-functional-standard-govs-007-security
+
+### **Minimum Cyber Security Standard (MCSS)**
+- https://www.gov.uk/government/publications/minimum-cyber-security-standard
+
+### **Security Policy Framework (SPF) – Cabinet Office**
+- https://www.gov.uk/government/collections/security-policy-framework
+
+### **Public Sector Network (PSN) Compliance**
+- https://www.gov.uk/guidance/public-services-network-psn-compliance
+
+---
+
+## 🏛️ Protection of Government & Critical Services
+
+### **NCSC – Security for Government IT and Services**
+- https://www.ncsc.gov.uk/collection/government-it
+
+### **Critical National Infrastructure (CNI) Security Guidance**
+- https://www.ncsc.gov.uk/section/critical-national-infrastructure/introduction
+
+### **Defence Cyber Protection Partnership (DCPP)**
+- https://www.gov.uk/guidance/defence-cyber-protection-partnership
+
+---
+
+## 🛡️ Cyber Essentials & Certifications
+
+### **Cyber Essentials**
+- https://www.cyberessentials.ncsc.gov.uk/
+
+### **Cyber Essentials Plus**
+- https://www.ncsc.gov.uk/cyber-essentials/overview
+
+### **IASME Governance Standard**
+- https://iasme.co.uk/iasme-governance-standard/
+
+---
+
+## 🔒 Cryptography (UK / NCSC)
+
+### **NCSC Cryptographic Guidance Hub**
+- https://www.ncsc.gov.uk/collection/cryptography
+
+### **NCSC – Using Cryptography in Government**
+- https://www.ncsc.gov.uk/guidance/using-cryptography-in-government
+
+### **NCSC-Approved Cryptographic Algorithms & Protocols**
+- https://www.ncsc.gov.uk/collection/cryptography-and-certificates/approved-algorithms
+
+### **Key Management Guidance (NCSC)**
+- https://www.ncsc.gov.uk/collection/cryptography/key-management
+
+---
+
+## ⚛️ Post-Quantum Cryptography (UK Guidance)
+
+*Note: The UK aligns with NIST PQC selections but provides UK-specific adoption guidance.*
+
+### **NCSC – Post-Quantum Cryptography Overview**
+- https://www.ncsc.gov.uk/whitepaper/protecting-the-future-quantum-safe-cryptography
+
+### **NCSC – Preparing for Post-Quantum Migration**
+- https://www.ncsc.gov.uk/guidance/preparing-for-pqc-migration
+
+---
+
+## ☁️ Cloud Security & Assurance
+
+### **NCSC Cloud Security Guidance (14 Principles)**
+- https://www.ncsc.gov.uk/collection/cloud-security
+
+### **NCSC Guidance for Secure Cloud Adoption**
+- https://www.ncsc.gov.uk/guidance/cloud-adoption
+
+### **UK Government Security**
 
 
