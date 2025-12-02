@@ -541,3 +541,133 @@ Australia’s equivalent to NIST 800-53 + 800-37 + CNSSI 1253.
 Australia’s **ISM** + **PSPF** + **Essential Eight** serve as the core of its cybersecurity framework, and map closely to U.S. NIST controls, U.K. NCSC guidance, and Canada’s ITSG-33 as part of broader Five Eyes collaboration.
 
 
+# Key New Zealand Cybersecurity Standards & Publications (NCSC / GCSB / NZISM / PSR)
+
+This document lists the major cybersecurity frameworks, policies, controls, and
+assurance resources from the **National Cyber Security Centre (NCSC New Zealand)**,
+the **Government Communications Security Bureau (GCSB)**, and the **Protective
+Security Requirements (PSR)** framework.
+
+---
+
+## 🇳🇿 Main Resource Libraries
+
+### **NCSC New Zealand – Publications Library**
+- https://www.ncsc.govt.nz/guidance/
+
+### **Government Communications Security Bureau (GCSB)**
+- https://www.gcsb.govt.nz/
+
+### **Protective Security Requirements (PSR) Framework**
+- https://www.protectivesecurity.govt.nz/
+
+---
+
+## 🧩 Governance, Policy & Assurance
+
+### **Protective Security Requirements (PSR)**
+New Zealand’s primary whole-of-government security framework.
+- https://www.protectivesecurity.govt.nz/
+
+### **Information Security Management Protocol (ISMP)**
+- https://www.protectivesecurity.govt.nz/implementing-the-psr/information-security/
+
+### **New Zealand Information Security Manual (NZISM)**
+Equivalent to NIST 800-53 + ISM (Australia) for government systems.
+- https://www.gcsb.govt.nz/our-work/information-assurance-and-cyber-security/new-zealand-information-security-manual/
+
+### **PSR Governance & Risk Management**
+- https://www.protectivesecurity.govt.nz/governance/
+
+---
+
+## 🔒 Cryptography (GCSB / NCSC)
+
+### **GCSB Cryptographic Guidance**
+- https://www.gcsb.govt.nz/our-work/information-assurance-and-cyber-security/guidance/
+
+### **GCSB Approved Cryptographic Algorithms & Protocols**
+- https://www.gcsb.govt.nz/our-work/information-assurance-and-cyber-security/certified-crypto/
+
+### **Quantum-Safe / PQC (NZ Strategic Guidance)**
+*NZ follows UK/NIST PQC strategy; high-level guidance provided by NCSC NZ.*
+- https://www.ncsc.govt.nz/guidance/
+
+---
+
+## ☁️ Cloud Security & Assurance
+
+### **NCSC Cloud Security Guidance**
+- https://www.ncsc.govt.nz/guidance/cloud-security/
+
+### **NZISM Cloud-Specific Controls**
+- https://www.gcsb.govt.nz/our-work/information-assurance-and-cyber-security/new-zealand-information-security-manual/
+
+---
+
+## 🔄 Incident Response & Threat Management
+
+### **NCSC Cyber Threat Response Guidance**
+- https://www.ncsc.govt.nz/incident-response/
+
+### **New Zealand Computer Emergency Response Team (CERT NZ)**
+- https://www.cert.govt.nz/
+
+### **CERT NZ Critical Controls**
+- https://www.cert.govt.nz/business/guides/critical-controls/
+
+---
+
+## 🧬 Critical Infrastructure Protection
+
+### **New Zealand CNI Security Guidance (NCSC)**
+- https://www.ncsc.govt.nz/critical-national-infrastructure/
+
+### **Sector-Specific Risk Guidance**
+- https://www.protectivesecurity.govt.nz/resources-and-guidance/
+
+---
+
+## 🛡️ Supply Chain Security
+
+### **NCSC Supply Chain Risk Management**
+- https://www.ncsc.govt.nz/guidance/supply-chain-risk-management/
+
+### **PSR Supply Chain Security Requirements**
+- https://www.protectivesecurity.govt.nz/information-security/
+
+---
+
+## 👤 Identity, Authentication & Access Control
+
+### **NCSC Identity & Access Management**
+- https://www.ncsc.govt.nz/guidance/identity-and-access-management/
+
+### **Government Standards for Authentication**
+- https://www.digital.govt.nz/standards-and-guidance/identity/
+
+---
+
+## 🔧 Secure Development & Architecture
+
+### **NCSC Secure Systems Design Guidance**
+- https://www.ncsc.govt.nz/guidance/system-design/
+
+### **NCSC Security Architecture Guidance**
+- https://www.ncsc.govt.nz/guidance/architecture/
+
+### **NCSC Secure Development Practices**
+- https://www.ncsc.govt.nz/guidance/secure-development/
+
+---
+
+## 📌 Notes
+New Zealand’s security ecosystem revolves around:
+
+- **PSR** → Whole-of-government security framework  
+- **NZISM** → The technical controls standard (closest to NIST SP 800-53/ISM AU)  
+- **NCSC NZ** → Practical defensive guidance, architecture, IR  
+- **GCSB** → Classified cryptographic policy, certification, national security systems  
+
+These four components collectively parallel the role played by NIST, NSA/NCSC
+
