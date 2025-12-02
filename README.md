@@ -37,5 +37,20 @@ Red Hat and Red Hat Enterprise Linux are trademarks of Red Hat, Inc. This site i
 Red Hat and Red Hat Enterprise Linux are trademarks or registered trademarks of Red Hat, Inc. Linux is a trademark of Linus Torvalds. Other product names, standards, and technologies mentioned on this site are the property of their respective owners. This site is not affiliated with, endorsed by, or sponsored by any of the trademark holders referenced. All references are used solely for descriptive and educational purposes.
 
 
-## Future Links
+## Links
 This profile will eventually link to my website, GitHub pages, and YouTube content.
+
+### Public Links Related to NSA "Raise the Bar" (RTB)
+
+- **NSA – National Cross Domain Strategy & Management Office (NCDSMO)**
+  - https://www.nsa.gov/Cybersecurity/Partnership/National-Cross-Domain-Strategy-Management-Office/
+
+- **Overview Article – “Raise the Bar: Demanding Cybersecurity Excellence for Cross Domain Solutions”**
+  - https://modernbattlespace.com/2021/03/03/raise-the-bar-demanding-cybersecurity-excellence-cross-domain-solutions-battlespace/
+
+- **Summary of RTB Requirements & Challenges**
+  - https://www.glasswall.com/us/blog/raise-the-bar-sets-high-standards-for-cross-domain-solutions-5-key-challenges-for-cds-vendors
+
+- **Public Slide Deck Referencing RTB Baseline & Updates**
+  - https://www.militaryexpos.com/wp-content/uploads/2020/12/Owl-Cyber-Defense-NCSI-Technology-Symposium_FINAL.pdf
+
