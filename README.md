@@ -1,7 +1,7 @@
-amie L. Adams
+## Jamie L. Adams
 Principal Software Engineer · Secure Linux · MLS/CDS · FIPS/RTB · Rust · Python · C
 
-About Me
+## About Me
 I am a principal software engineer with more than thirty years of experience building and supporting secure Linux systems, cross-domain solutions (CDS), multilevel security (MLS) platforms, and high-assurance auditing subsystems. My work has spanned system administration, C development, Python GTK tooling, SNMPv3 integrations, secure logging architectures, FIPS-compliant cryptography, and hardened Red Hat environments.
 
 For nearly two decades I contributed to accredited CDS and MLS products, including:
@@ -11,7 +11,7 @@ For nearly two decades I contributed to accredited CDS and MLS products, includi
 	•	Protocol adapters enabling safe SMTP and printing across security boundaries
 	•	High-assurance secure coding, formal testing, and FIPS-aligned architecture reviews
 
-Work Philosophy
+## Work Philosophy
 I value clarity, correctness, simplicity, and security. Code should be readable, predictable, and maintainable under pressure. System administrators should never have to guess what a tool is doing. Effective secure engineering is a mix of discipline, respect for constraints, and clean design.
 
 Gandalf the Green / High Herbalist
