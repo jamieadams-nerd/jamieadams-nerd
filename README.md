@@ -1,15 +1,15 @@
-## Jamie L. Adams
+# Jamie L. Adams
 Principal Software Engineer · Secure Linux · MLS/CDS · FIPS/RTB · Rust · Python · C
 
 ## About Me
 I am a principal software engineer with more than thirty years of experience building and supporting secure Linux systems, cross-domain solutions (CDS), multilevel security (MLS) platforms, and high-assurance auditing subsystems. My work has spanned system administration, C development, Python GTK tooling, SNMPv3 integrations, secure logging architectures, FIPS-compliant cryptography, and hardened Red Hat environments.
 
 For nearly two decades I contributed to accredited CDS and MLS products, including:
-	•	Forensic-quality audit/event subsystems aligned with RTB requirements
-	•	Remote guard monitoring with MLS-enforced separation
-	•	CDS-MIB and SNMPv3 notification integrations
-	•	Protocol adapters enabling safe SMTP and printing across security boundaries
-	•	High-assurance secure coding, formal testing, and FIPS-aligned architecture reviews
+* Forensic-quality audit/event subsystems aligned with RTB requirements
+* Remote guard monitoring with MLS-enforced separation
+* CDS-MIB and SNMPv3 notification integrations
+* Protocol adapters enabling safe SMTP and printing across security boundaries
+* High-assurance secure coding, formal testing, and FIPS-aligned architecture reviews
 
 ## Work Philosophy
 I value clarity, correctness, simplicity, and security. Code should be readable, predictable, and maintainable under pressure. System administrators should never have to guess what a tool is doing. Effective secure engineering is a mix of discipline, respect for constraints, and clean design.
