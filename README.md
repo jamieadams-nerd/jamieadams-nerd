@@ -24,13 +24,9 @@ I value clarity, correctness, simplicity, and security. Code should be readable,
 	•	Wizard-themed branding artifacts for fun and teaching
 
 ## Disclaimers
-All public repositories are for educational, illustrative, and experimental purposes only.
-They are not turnkey solutions for accredited MLS/CDS systems.
-Cryptographic examples may not be FIPS validated.
-Always conduct independent security review and accreditation processes before using any code operationally.
+All public repositories are provided solely for educational, illustrative, and experimental use. They are not turnkey or accredited MLS/CDS solutions, and any cryptographic examples may lack FIPS validation. Independent security review and accreditation must be performed before using any code operationally.
 
-All information on this site is based solely on publicly available cybersecurity standards, guidelines, and open-source documentation, and links to these public documents will be provided. No sensitive, classified, or system-specific configurations are used. All examples are generic demonstrations created for instructional purposes. Drawing on more than 30 years of professional experience in secure systems, I offer additional recommendations and best practices that align with these public standards while remaining entirely independent of any real-world system configuration.
-
+All content is derived exclusively from publicly available cybersecurity standards, guidelines, and open-source documentation, with links provided where applicable. No sensitive, classified, or system-specific configurations appear in any material; all examples are generic and instructional. Recommendations and best practices reflect over 30 years of professional experience in secure systems and are aligned with public standards while remaining entirely independent of any real-world system configuration.
 
 ### AI Image Disclaimer
 Some images on this site were generated using artificial intelligence tools. These images are original creations produced by AI based on my prompts and are not copied from or derived from any copyrighted artwork, photographs, or proprietary material. To the best of my knowledge, all AI-generated images shown here comply with U.S. copyright law, and I hold the rights to use, display, and publish them. Any resemblance to existing copyrighted works or real individuals is unintentional.
