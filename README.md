@@ -29,5 +29,14 @@ They are not turnkey solutions for accredited MLS/CDS systems.
 Cryptographic examples may not be FIPS validated.
 Always conduct independent security review and accreditation processes before using any code operationally.
 
+### AI Image Disclaimer
+Some images on this site were generated using artificial intelligence tools. These images are original creations produced by AI based on my prompts and are not copied from or derived from any copyrighted artwork, photographs, or proprietary material. To the best of my knowledge, all AI-generated images shown here comply with U.S. copyright law, and I hold the rights to use, display, and publish them. Any resemblance to existing copyrighted works or real individuals is unintentional.
+
+### Trademark Notice
+Red Hat and Red Hat Enterprise Linux are trademarks of Red Hat, Inc. This site is not affiliated with or endorsed by Red Hat.
+
+Red Hat and Red Hat Enterprise Linux are trademarks or registered trademarks of Red Hat, Inc. Linux is a trademark of Linus Torvalds. Other product names, standards, and technologies mentioned on this site are the property of their respective owners. This site is not affiliated with, endorsed by, or sponsored by any of the trademark holders referenced. All references are used solely for descriptive and educational purposes.
+
+
 ## Future Links
 This profile will eventually link to my website, GitHub pages, and YouTube content.
