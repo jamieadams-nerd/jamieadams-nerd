@@ -54,12 +54,10 @@ The **Five Eyes** is one of the most powerful intelligence-sharing partnerships 
 Key UK Cybersecurity Standards & Publications (NCSC, Cabinet Office, Cyber Essentials)
 
 This secction lists the most widely used and foundational **United Kingdom
-government cybersecurity publications**, including guidance from the  
-**National Cyber Security Centre (NCSC)**, **Cabinet Office**, **CESG**,  
-**Cyber Essentials**, cryptographic standards, cloud security guidance,  
-and assurance frameworks.
+government cybersecurity publications**, including guidance from the **National Cyber Security Centre (NCSC)**, **Cabinet Office**, **CESG**,  
+**Cyber Essentials**, cryptographic standards, cloud security guidance,  and assurance frameworks.
 
-All links go to official **UK government** domains.
+All links go to official UK government** domains.
 
 ## 🇬🇧 Main Resource Libraries
 * NCSC Guidance Library - https://www.ncsc.gov.uk/collection/all-topics
@@ -71,32 +69,17 @@ All links go to official **UK government** domains.
 * Government Functional Standard for Security (GovS 007) - https://www.gov.uk/government/publications/government-functional-standard-govs-007-security
 * Minimum Cyber Security Standard (MCSS) - https://www.gov.uk/government/publications/minimum-cyber-security-standard
 * Security Policy Framework (SPF) – Cabinet Office - https://www.gov.uk/government/collections/security-policy-framework
-
 * Public Sector Network (PSN) Compliance - https://www.gov.uk/guidance/public-services-network-psn-compliance
 
 ## 🏛️ Protection of Government & Critical Services
 * NCSC – Security for Government IT and Services - https://www.ncsc.gov.uk/collection/government-it
-
-### **Critical National Infrastructure (CNI) Security Guidance**
-- https://www.ncsc.gov.uk/section/critical-national-infrastructure/introduction
-
-### **Defence Cyber Protection Partnership (DCPP)**
-- https://www.gov.uk/guidance/defence-cyber-protection-partnership
-
----
+* Critical National Infrastructure (CNI) Security Guidance - https://www.ncsc.gov.uk/section/critical-national-infrastructure/introduction
+* Defence Cyber Protection Partnership (DCPP) - https://www.gov.uk/guidance/defence-cyber-protection-partnership
 
 ## 🛡️ Cyber Essentials & Certifications
-
-### **Cyber Essentials**
-- https://www.cyberessentials.ncsc.gov.uk/
-
-### **Cyber Essentials Plus**
-- https://www.ncsc.gov.uk/cyber-essentials/overview
-
-### **IASME Governance Standard**
-- https://iasme.co.uk/iasme-governance-standard/
-
----
+* Cyber Essentials - https://www.cyberessentials.ncsc.gov.uk/
+* Cyber Essentials Plus - https://www.ncsc.gov.uk/cyber-essentials/overview
+* IASME Governance Standard - https://iasme.co.uk/iasme-governance-standard/
 
 ## 🔒 Cryptography (UK / NCSC)
 
@@ -111,8 +94,6 @@ All links go to official **UK government** domains.
 
 ### **Key Management Guidance (NCSC)**
 - https://www.ncsc.gov.uk/collection/cryptography/key-management
-
----
 
 ## ⚛️ Post-Quantum Cryptography (UK Guidance)
 
