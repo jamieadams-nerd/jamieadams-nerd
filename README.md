@@ -2,7 +2,7 @@
 Principal Software Engineer · Secure Linux · MLS/CDS · FIPS/RTB · Rust · Python · C
 
 ## About Me
-I am a principal software engineer with more than thirty years of experience building and supporting secure Linux systems, cross-domain solutions (CDS), multilevel security (MLS) platforms, and high-assurance auditing subsystems. My work has spanned system administration, C development, Python GTK tooling, SNMPv3 integrations, secure logging architectures, FIPS-compliant cryptography, and hardened Red Hat environments.
+I am a principal software engineer with more than thirty years of experience building and supporting secure Linux systems, cross-domain solutions (CDS), multilevel security (MLS) platforms, and high-assurance auditing and logging subsystems. My work has spanned system administration, C/Python/Rust development, SNMPv3 integrations, FIPS-compliant cryptography, and high-assurance engineering.
 
 For nearly two decades I contributed to accredited CDS and MLS products, including:
 * Forensic-quality audit/event subsystems aligned with RTB requirements
