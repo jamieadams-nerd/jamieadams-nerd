@@ -1,4 +1,4 @@
-This document compiles cybersecurity guidelines from Five Eyes member countries that correspond to U.S. security controls. It is intended for cross-reference purposes only.
+This document compiles publicly available cybersecurity guidelines from Five Eyes member countries that correspond to U.S. security controls. It is intended for cross-reference purposes only.
 
 # The Five Eyes (5-Eyes) Intelligence Alliance
 The **Five Eyes** is an intelligence alliance comprising five English-speaking countries that share intelligence and cooperate closely on national security matters.  
