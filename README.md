@@ -16,12 +16,12 @@ I value clarity, correctness, simplicity, and security. Code should be readable,
 
 
 ### Repositories You’ll Find Here
-	•	Rust command-line tools (classical ciphers, secure coding demonstrations)
-	•	Python GTK3 utilities for secure administration and cryptographic verification
-	•	Secure logging and auditing subsystem demonstrations
-	•	Linux MLS/SELinux educational examples
-	•	Documentation templates and technical essays
-	•	Wizard-themed branding artifacts for fun and teaching
+- Rust command-line tools (classical ciphers, secure coding demonstrations)
+- Python GTK3 utilities for secure administration and cryptographic verification
+- Secure logging and auditing subsystem demonstrations
+- Linux MLS/SELinux educational examples
+- Documentation templates and technical essays
+- Wizard-themed branding artifacts for fun and teaching
 
 ## Disclaimers
 All public repositories are provided solely for educational, illustrative, and experimental use. They are not turnkey or accredited MLS/CDS solutions, and any cryptographic examples may lack FIPS validation. Independent security review and accreditation must be performed before using any code operationally.
@@ -29,7 +29,7 @@ All public repositories are provided solely for educational, illustrative, and e
 All content is derived exclusively from publicly available cybersecurity standards, guidelines, and open-source documentation, with links provided where applicable. No sensitive, classified, or system-specific configurations appear in any material; all examples are generic and instructional. Recommendations and best practices reflect over 30 years of professional experience in secure systems and are aligned with public standards while remaining entirely independent of any real-world system configuration.
 
 ### AI Image Disclaimer
-Some images on this site were generated using artificial intelligence tools. These images are original creations produced by AI based on my prompts and are not copied from or derived from any copyrighted artwork, photographs, or proprietary material. To the best of my knowledge, all AI-generated images shown here comply with U.S. copyright law, and I hold the rights to use, display, and publish them. Any resemblance to existing copyrighted works or real individuals is unintentional.
+Some images on this site were generated using artificial intelligence tools because I am a lousy artist. These images are original creations produced by AI based on my prompts and are not copied from or derived from any copyrighted artwork, photographs, or proprietary material. To the best of my knowledge, all AI-generated images shown here comply with U.S. copyright law, and I hold the rights to use, display, and publish them. Any resemblance to existing copyrighted works or real individuals is unintentional.
 
 ### Trademark Notice
 Red Hat and Red Hat Enterprise Linux are trademarks of Red Hat, Inc. This site is not affiliated with or endorsed by Red Hat.
@@ -60,8 +60,6 @@ This document lists the most widely used and foundational NIST publications in
 cybersecurity, cryptography (including **post-quantum**), risk management, controls,
 identity, cloud security, and supply-chain security.  
 All links go directly to **NIST.gov** public resources.
-
----
 
 ### 📚 Main NIST Publications Library
 - **NIST Publications Search / Library**  
