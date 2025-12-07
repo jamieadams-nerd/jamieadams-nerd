@@ -82,41 +82,22 @@ All links go to official UK government** domains.
 * IASME Governance Standard - https://iasme.co.uk/iasme-governance-standard/
 
 ## 🔒 Cryptography (UK / NCSC)
+* NCSC Cryptographic Guidance Hub - https://www.ncsc.gov.uk/collection/cryptography
+* NCSC – Using Cryptography in Government - https://www.ncsc.gov.uk/guidance/using-cryptography-in-government
+* NCSC-Approved Cryptographic Algorithms & Protocols - https://www.ncsc.gov.uk/collection/cryptography-and-certificates/approved-algorithms
+* Key Management Guidance (NCSC) - https://www.ncsc.gov.uk/collection/cryptography/key-management
 
-### **NCSC Cryptographic Guidance Hub**
-- https://www.ncsc.gov.uk/collection/cryptography
+* ⚛️ Post-Quantum Cryptography (UK Guidance)
+> Note: The UK aligns with NIST PQC selections but provides UK-specific adoption guidance.
 
-### **NCSC – Using Cryptography in Government**
-- https://www.ncsc.gov.uk/guidance/using-cryptography-in-government
-
-### **NCSC-Approved Cryptographic Algorithms & Protocols**
-- https://www.ncsc.gov.uk/collection/cryptography-and-certificates/approved-algorithms
-
-### **Key Management Guidance (NCSC)**
-- https://www.ncsc.gov.uk/collection/cryptography/key-management
-
-## ⚛️ Post-Quantum Cryptography (UK Guidance)
-
-*Note: The UK aligns with NIST PQC selections but provides UK-specific adoption guidance.*
-
-### **NCSC – Post-Quantum Cryptography Overview**
-- https://www.ncsc.gov.uk/whitepaper/protecting-the-future-quantum-safe-cryptography
-
-### **NCSC – Preparing for Post-Quantum Migration**
-- https://www.ncsc.gov.uk/guidance/preparing-for-pqc-migration
-
----
+* NCSC – Post-Quantum Cryptography Overview - https://www.ncsc.gov.uk/whitepaper/protecting-the-future-quantum-safe-cryptography
+* NCSC – Preparing for Post-Quantum Migration - https://www.ncsc.gov.uk/guidance/preparing-for-pqc-migration
 
 ## ☁️ Cloud Security & Assurance
+* NCSC Cloud Security Guidance (14 Principles) - https://www.ncsc.gov.uk/collection/cloud-security
+* NCSC Guidance for Secure Cloud Adoption - https://www.ncsc.gov.uk/guidance/cloud-adoption
 
-### **NCSC Cloud Security Guidance (14 Principles)**
-- https://www.ncsc.gov.uk/collection/cloud-security
-
-### **NCSC Guidance for Secure Cloud Adoption**
-- https://www.ncsc.gov.uk/guidance/cloud-adoption
-
-
-
+---
 # CANADA
 
 Canada publishes very clear public guidance on which hash functions are approved.
